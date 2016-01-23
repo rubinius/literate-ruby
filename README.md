@@ -40,5 +40,5 @@ rel="dct:source">https://github.com/rubinius/literate-ruby</a>.
 Any part of this work for which the CC-BY-NC-ND-4.0 license is not applicable
 is licensed under the [Mozilla Public License 2.0](). See LICENSE.MPL-2.0.
 
-Any part of this work that is known to be derived from an existing work is licensed under the license of that existing work. Where such license is known, the license text is included in the LICENSE.<ext> file, where <ext> indicates the license.
+Any part of this work that is known to be derived from an existing work is licensed under the license of that existing work. Where such license is known, the license text is included in the LICENSE.ext file, where "ext" indicates the license.
 
