@@ -17,7 +17,7 @@ Participation in this project is governed by the Rubinius [Code of Conduct](http
 
 ## Online Discussion
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rubinius/literate-ruby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/rubinius/literate-ruby.svg)](https://gitter.im/rubinius/literate-ruby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 
 ## License
